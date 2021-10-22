@@ -3,7 +3,7 @@
  In mathematics, my research interests:
  - Invense Problems
  - Riemannian geometry
- - Lorentzian geoemtry (specifically general relativity)
+ - Lorentzian geometry (with emphasis on general relativity)
  - Magnetic geodesics
  
  In python, I focus mainly on data analysis and primarily use the following modules:
