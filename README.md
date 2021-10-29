@@ -4,12 +4,14 @@
  - Invense Problems
  - Riemannian geometry
  - Lorentzian geometry (with emphasis on general relativity)
+ - Geodesics
+ - Cut and Conjugate Loci
  - Magnetic geodesics
  
  In python, I focus mainly on data analysis and primarily use the following modules:
- - Pandas/Numpy
+ - Pandas
+ - Numpy
  - SQLite3
- - Tkinter
 
 
 <!---
