@@ -8,7 +8,7 @@
  - Cut and Conjugate Loci
  - Magnetic geodesics
  
- In python, I focus mainly on data analysis and primarily use the following modules:
+ In python, I focus mainly on data analysis and primarily use the following libraries:
  - Pandas
  - Numpy
  - SQLite3
