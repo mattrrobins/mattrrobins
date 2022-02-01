@@ -1,6 +1,6 @@
  Hi, I’m @mattrrobins.
  I have MS degree in mathematics and program primarily in python (and SQL).  
- In mathematics, my research interests:
+ In pure mathematics, my research interests include:
  - Invense Problems
  - Riemannian geometry
  - Lorentzian geometry (with emphasis on general relativity)
@@ -8,10 +8,17 @@
  - Cut and Conjugate Loci
  - Magnetic geodesics
  
- In python, I focus mainly on data analysis and primarily use the following libraries:
+I also have a strong interest in machine learning, neural networks and data science in general utilizing the following libraries:
  - Pandas
  - Numpy
  - SQLite3
+ - matplotlib
+ - scipy
+
+A few topics that currently pique my interest include:
+ - Topological Deep Learning
+ - Symplectic Geometry
+ - Statistical Manifolds
 
 
 <!---
