@@ -18,7 +18,7 @@ I also have a strong interest in machine learning, neural networks and data scie
 A few topics that currently pique my interest include:
  - Topological Deep Learning
  - Symplectic Geometry
- - Statistical Manifolds
+ - Inverse Problems in Deep Learning and Neural Networks
 
 
 <!---
