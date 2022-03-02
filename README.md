@@ -8,7 +8,7 @@
  - Cut and Conjugate Loci
  - Magnetic geodesics
  
-I also have a strong interest in machine learning, neural networks and data science in general utilizing the following libraries:
+I also have a strong interest in machine learning, specifically with deep neural networks.  In python I've lately been utilizing the following libraries:
  - pandas
  - numpy
  - sqlite3
