@@ -1,5 +1,6 @@
  Hi, I’m @mattrrobins.
- I have MS degree in mathematics and program primarily in python (and SQL).  
+ I have MS degree in mathematics and work as a mathematician in game development (utilizing C#, python and SQL).  
+ 
  In pure mathematics, my research interests include:
  - Invense Problems
  - Riemannian geometry
