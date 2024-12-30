@@ -10,8 +10,7 @@
  - Magnetic geodesics
  
 I also have a strong interest in machine learning, specifically with deep neural networks.  In python I've lately been utilizing the following libraries:
- - pandas
- - numpy
+ - pytorch
  - sqlite3
  - matplotlib
  - scipy
